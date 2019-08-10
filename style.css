@@ -42,7 +42,9 @@ footer {
     color:  #ebebeb;
     background-color: #777;
     margin: -10px;
-    padding: 15px;
+    margin-top: 30px;
+    padding: 10px;
+    padding-top: 1px;
 }
 
 #h1,
@@ -51,15 +53,20 @@ footer {
     background-color: #ebebeb;
     margin: 10px;
     padding: 1px;
+    height: 60px;
 }
 
 #section {
     width: 495px;
+    height: 280px;
+    padding: 20px;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
 }
 
 aside {
     float: right;
     background-color: #ebebeb; 
     width: 400px;
-    height: 310px;
+    height: 315px;
 }
